@@ -1,5 +1,7 @@
 <p align="center"> 
 <img src="assets/imshawan.gif" alt="Hello Fellas"> 
+  <h2 align="center">Welcome To My Repository</h2>
+ <p align="center"> Shawan Mandal </p>
 </p>
 <p align="center">
   <h1> Welcome to iMSHAWAN </h1> <br>
