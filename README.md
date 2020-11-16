@@ -1,7 +1,7 @@
 <p align="center"> 
-  Visitor count<br>
-  ### Hi there 👋
+ ### Hi there 👋
 <img src="assets/imshawan.gif" alt="Hello Fellas">
+ ### Visitor count<br>
 <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
   </p>
 
