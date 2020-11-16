@@ -1,3 +1,4 @@
+<img src="assets/imshawan.gif">
 ### Hi there 👋
 
 <!--
