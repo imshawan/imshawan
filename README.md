@@ -1,7 +1,10 @@
 <p align="center"> 
- ### Hi there 👋
-<img src="assets/imshawan.gif" alt="Hello Fellas">
+<img src="assets/imshawan.gif" alt="Hello Fellas"> 
+</p>
+ ### Hi there 👋 <br>
+ ### Welcome to iMSHAWAN
  ### Visitor count<br>
+ <p align="center">
 <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
   </p>
 
