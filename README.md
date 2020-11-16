@@ -1,10 +1,10 @@
 <p align="center"> 
 <img src="assets/imshawan.gif" alt="Hello Fellas"> 
 </p>
- ### Hi there 👋 <br>
- ### Welcome to iMSHAWAN
- ### Visitor count<br>
- <p align="center">
+<p align="center"> 
+# Hi there 👋 <br>
+### Welcome to iMSHAWAN<br>
+### Visitor count<br>
 <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
   </p>
 
