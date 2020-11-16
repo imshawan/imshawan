@@ -2,16 +2,14 @@
 <img src="assets/imshawan.gif" alt="Hello Fellas"> 
 </p>
 <p align="center"> 
-# Welcome to iMSHAWAN<br>
-# Visitor count<br>
+<h1> Welcome to iMSHAWAN </h1> <br>
+# Visitor count  <br>
 <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
-  </p>
- <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&hide=css&theme=dark&hide_langs_below=1"  />
-
-
+</p>
+<img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&hide=css&theme=dark&hide_langs_below=1"  />
 
 <a href="https://github.com/imshawan">
- <img style=”padding-top:30px;” align="right" src="https://github-readme-stats.vercel.app/api?username=imshawan&show_icons=true&theme=dracula&line_height=27" alt="Shawan Mandal's Github Statistics"/>
+<img style=”padding-top:30px;” align="right" src="https://github-readme-stats.vercel.app/api?username=imshawan&show_icons=true&theme=dracula&line_height=27" alt="Shawan Mandal's Github Statistics"/>
 </a>
 
 <!--
