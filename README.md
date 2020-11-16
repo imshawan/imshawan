@@ -1,7 +1,7 @@
 <p align="center"> 
 <img src="assets/imshawan.gif" alt="Hello Fellas"> 
   <h1 align="center">Welcome To iMSHAWAN</h1>
- <p align="center"> Shawan Mandal </p>
+ <p align="center"> <h2>Shawan Mandal</h2> </p>
 </p>
 <p align="center"> 
   My Visitor count<br>
