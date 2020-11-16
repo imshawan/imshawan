@@ -1,6 +1,9 @@
-<p align="center">
+<p align="center"> 
+  Visitor count<br>
   ### Hi there 👋
 <img src="assets/imshawan.gif" alt="Hello Fellas">
+<img src="https://profile-counter.glitch.me/imshawan/count.svg" />
+  </p>
 
 <!--
 **imshawan/imshawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
