@@ -1,6 +1,6 @@
 <p align="center">
   ### Hi there 👋
-<img src="assets/imshawan.gif" alt="Hello world" width="790" height="400">
+<img src="assets/imshawan.gif" alt="Hello world" width="1000" height="1000">
 
 <!--
 **imshawan/imshawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
