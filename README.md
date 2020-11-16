@@ -1,13 +1,10 @@
 <p align="center"> 
 <img src="assets/imshawan.gif" alt="Hello Fellas"> 
-  <h2 align="center">Welcome To My Repository</h2>
+  <h1 align="center">Welcome To iMSHAWAN</h1>
  <p align="center"> Shawan Mandal </p>
 </p>
-<p align="center">
-  <h1> Welcome to iMSHAWAN </h1> <br>
- </p>
 <p align="center"> 
-   <h1> My Visitor count </h1>  <br>
+  My Visitor count<br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
 </p>
 <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&hide=css&theme=dark&hide_langs_below=1" />
