@@ -3,9 +3,9 @@
 </p>
 <p align="center">
   <h1> Welcome to iMSHAWAN </h1> <br>
-  # Visitor count  <br>
  </p>
 <p align="center"> 
+   <h1> My Visitor count </h1>  <br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
 </p>
 <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&hide=css&theme=dark&hide_langs_below=1" />
