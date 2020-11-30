@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="assets/imshawanprev.gif" alt="Hello Fellas" height='1080' width='1920'>
+<img src="assets/imshawanprev.gif" alt="Hello Fellas" width='1920'>
   <h1 align="center">You've Reached the Repository of iMSHAWAN</h1>
  <p align="center"> <h2 align="center">Shawan Mandal</h2> </p>
  <p align="center"> <h3 align="center">Student/Python Developer</h3> </p>
