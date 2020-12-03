@@ -6,7 +6,7 @@
 </p>
 <p align="center"> 
   My Visitor count<br>
-  <img src="https://profile-counter.glitch.me/imshawan/count.svg" />
+  <img src="https://profile-counter.glitch.me/imshawan/count.svg">
 </p>
 <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&hide=css&theme=dark&hide_langs_below=1" />
 
