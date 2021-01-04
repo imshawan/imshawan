@@ -9,7 +9,8 @@
 </p>
 - 📫 You can Find me at:
 [LinkedIn](https://www.linkedin.com/in/shawan-mandal) , [HackerRank](https://www.hackerrank.com/shawan_sm) , [Instagram](https://www.instagram.com/shawan_sm)
-[![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan-Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal) 
+
+[![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-Blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal) 
 
 <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&hide=css&theme=dark&hide_langs_below=1" />
 
