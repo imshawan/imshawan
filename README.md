@@ -1,8 +1,7 @@
 <p align="center"> 
-<img src="assets/imshawanprev.gif" alt="Hello Fellas" width='1920'>
   <h1 align="center" style="font-family: 'Lucida Console';">You've Reached the Repository of iMSHAWAN</h1>
- <p align="center"> <h1 align="center">Shawan Mandal</h1></p>
- <p align="center"> <h2 align="center">&lt;Student/Developer&gt;</h2> </p>
+ <p align="center"> <h1 align="center">I'm Shawan Mandal</h1></p>
+ <p align="center"> <h2 align="center">&lt;A CS Student & A Developer&gt;</h2> </p>
 </p>
 <p align="center"> 
   My Visitor count<br>
