@@ -1,8 +1,6 @@
-<p align="left"> 
-  
- <p align="left"> <h2>Hello,<br> I'm Shawan Mandal, A CS Student & A Developer</h2></p>
-
-</p>
+ # Hello!
+ <p align="left"> <h3>I'm Shawan Mandal, A CS Student & A Developer</h3></p>
+ 
 <p align="center"> 
   My Visitor count<br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg">
