@@ -1,5 +1,11 @@
  # Hello!
- <p align="left"> <h3>I'm Shawan Mandal, A CS Student & A Developer</h3></p>
+ I'm a small town boy from Margherita, Assam, India and I and put up my work under the 
+ username "imshawan". I'm currently pursuing my degree in Bachelor Of Science.
+ 
+ I'm a student who has been always fascinated about computers and programming languages,
+ I have deep interests in Programming and I focus on most of the major programming languages 
+ that include C, C++, Java, Python.
+ I'm a self learner and I enjoy learning new languages and always love experimenting with new lines of codes.  
  
 <p align="center"> 
   My Visitor count<br>
