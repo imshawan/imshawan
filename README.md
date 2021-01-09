@@ -1,6 +1,6 @@
-<p align="center"> 
+<p align="left"> 
   
- <p align="center"> <h2 align="center">Hello,<br> I'm Shawan Mandal, A CS Student & A Developer</h2></p>
+ <p align="left"> <h2 align="center">Hello,<br> I'm Shawan Mandal, A CS Student & A Developer</h2></p>
 
 </p>
 <p align="center"> 
