@@ -12,7 +12,7 @@
 [![Instagram: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shawan_sm)](https://www.instagram.com/shawan_sm)
 
 <p align="left"> 
-  My Visitor count<br>
+  My Profile views<br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg">
 </p>
 
