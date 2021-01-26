@@ -9,7 +9,7 @@
     * Java
     * C, C++
     * HTML, JavaScript and CSS for web development
-* Currently I'm learning MERN Stack
+* Currently I'm learning MERN Stack for full stack web development
 * I'm open to collaborate on projects :open_hands:
 * My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>
 * You can Find me at:
