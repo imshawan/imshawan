@@ -11,8 +11,7 @@
     * HTML, JavaScript and CSS for web development
 * Currently I'm learning MERN Stack for full stack web development
 * I'm open to collaborate on projects :open_hands:
-* My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>
-    * EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049</a>
+* My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>, EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049</a>
 * You can Find me on:
 
 [![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal)
