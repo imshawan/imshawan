@@ -3,7 +3,7 @@
  
  I'm a student who has been always fascinated about computers and programming languages, I have deep interests in Programming and I focus on most of the major programming languages that include C, C++, Java, Python. I'm a self learner and I enjoy learning new languages and always love experimenting with new lines of codes.  
  
-* View my Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>
+* My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>
 * You can Find me at:
 
 
@@ -14,5 +14,6 @@
 <p align="center"> 
   My Profile views<br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imshawan" alt="Shawan Mandal" />
 </p>
 
