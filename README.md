@@ -12,7 +12,7 @@
 * Currently I'm learning MERN Stack for full stack web development
 * I'm open to collaborate on projects :open_hands:
 * My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>
-* You can Find me at:
+* You can Find me on:
 
 [![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal)
 [![Hackerrank: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-brightgreen?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/shawan_sm)](https://www.hackerrank.com/shawan_sm)
