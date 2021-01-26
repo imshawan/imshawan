@@ -5,10 +5,10 @@
  
  ## My Current Status
 * The Languages I know:
- * Python
- * Java
- * C, C++
- * HTML, JavaScript and CSS for web development
+    * Python
+    * Java
+    * C, C++
+    * HTML, JavaScript and CSS for web development
 * Currently I'm learning MERN Stack
 * My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>
 * You can Find me at:
