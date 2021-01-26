@@ -14,6 +14,5 @@
 <p align="center"> 
   My Profile views<br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imshawan" alt="Shawan Mandal" />
 </p>
-
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imshawan" alt="Shawan Mandal" />
