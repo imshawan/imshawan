@@ -10,6 +10,7 @@
     * C, C++
     * HTML, JavaScript and CSS for web development
 * Currently I'm learning MERN Stack for full stack web development
+* The project I'm working on: <a href="https://github.com/imshawan/keepsafe-passwordmanager">KeepSafe</a>, a simple password manager software
 * I'm open to collaborate on projects :open_hands:
 * My Portfolio at <a href="https://imshawan.github.io/">imshawan.github.io</a>, EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
 * You can Find me on:
