@@ -6,8 +6,8 @@
  ### Somethings about me...
 * The Languages I know:
     * Python
-    * Java
-    * C, C++
+    * Java (Newbie)
+    * C, C++, C#
     * HTML, JavaScript and CSS for web development
 * Currently I'm learning M.E.R.N Stack for full stack web development
 * The project I'm working on: <a href="https://github.com/imshawan/keepsafe-passwordmanager">KeepSafe</a>, a simple password manager software
