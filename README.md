@@ -10,7 +10,7 @@
     * C, C++, C#
     * HTML, JavaScript and CSS for web development
 * Currently I'm learning M.E.R.N Stack for full stack web development
-* The project I'm working on: <a href="https://github.com/imshawan/keepsafe-passwordmanager">KeepSafe</a>, a simple password manager software
+* The project I'm working on: <a href="https://github.com/imshawan/SYSInfoMonitor">SYSInfo Monitor</a>, a simple System Information Monitor software
 * I'm open to collaborate on projects :open_hands:
 * My Portfolio at <a href="https://imshawan.netlify.app/">imshawan</a>, EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
 * You can Find me on:
