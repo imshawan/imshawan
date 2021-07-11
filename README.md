@@ -20,10 +20,10 @@
 [![Instagram: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shawan_sm)](https://www.instagram.com/shawan_sm)
 [![Twitter: shawan_sm](https://img.shields.io/twitter/follow/shawan_sm?style=social)](https://twitter.com/shawan_sm)
 
-<p align="center"> 
-  My Profile views<br>
+<p align="left"> 
+  <h3>Profile views</h3><br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg">
 </p>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imshawan" alt="Shawan Mandal"/>
  </p>
