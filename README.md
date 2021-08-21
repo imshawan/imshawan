@@ -3,11 +3,7 @@
  Always fascinated about computers & programming languages and a self learner who enjoys learning new technologies and experimenting with new lines of code.  
  
  ### Things about me...
-* The Languages I know:
-    * Python
-    * Java (Newbie)
-    * C, C++, C#
-    * HTML, JavaScript and CSS for web development
+* The Languages I know: Python, Java (Basics), C, C++, C# (.NET Framework), HTML, JavaScript and CSS.
 * Currently I'm learning M.E.R.N Stack for full stack web development
 * The project I'm working on: <a href="https://github.com/imshawan/SYSInfoMonitor">SYSInfo Monitor</a>, a simple System Information Monitor software
 * I'm open to collaborate on projects :open_hands:
