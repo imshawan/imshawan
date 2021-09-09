@@ -6,7 +6,7 @@
 * Currently I'm learning M.E.R.N Stack for full stack web development
 * The project I'm working on: <a href="https://github.com/imshawan/SYSInfoMonitor">SYSInfo Monitor</a>, a simple System Information Monitor software
 * I'm open to collaborate on projects :open_hands:
-* My Portfolio at <a href="https://imshawan.netlify.app/">imshawan</a>, EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
+* <a href="https://imshawan.netlify.app/">View my Portfolio</a>, EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
 * You can Find me on:
 
 [![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal)
