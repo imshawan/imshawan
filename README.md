@@ -4,7 +4,7 @@
  ### Things about me...
 * The Languages I know: Python, Java (Basics), C, C++, C# (.NET Framework), HTML, JavaScript and CSS.
 * Currently I'm learning M.E.R.N Stack for full stack web development
-* The project I'm working on: <a href="https://github.com/imshawan/SYSInfoMonitor">SYSInfo Monitor</a>, a simple System Information Monitor software
+* The project I'm working on: <a href="https://github.com/imshawan/NotesBucket">NotesBucket</a>, a notes taking application (Like Google Keep)
 * I'm open to collaborate on projects :open_hands:
 * <a href="https://imshawan.netlify.app/">View my portfolio</a>, EMAIL: <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
 * You can Find me on:
