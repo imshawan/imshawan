@@ -15,7 +15,7 @@
 [![Twitter: shawan_sm](https://img.shields.io/twitter/follow/shawan_sm?style=social)](https://twitter.com/shawan_sm)
 
 <p align="center"> 
-  <b>Profile views</b><br>
+  <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/imshawan/count.svg">
 </p>
 <!--
