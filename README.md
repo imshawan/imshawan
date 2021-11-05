@@ -1,5 +1,5 @@
  # Hello Visitor! :wave:
- I'm a small town boy from Assam, India who is always fascinated about Tech & computers, a self learner who enjoys learning new stuffs.  
+ I'm a small town boy from Assam, India who is always fascinated about Tech & computers, a self learner who enjoys learning new technologies.  
  
  ### Things about me...
 * The Languages I know: Python, Java (Basics), C, C++, C# (.NET Framework), HTML, JavaScript and CSS.
