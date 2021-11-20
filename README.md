@@ -12,7 +12,9 @@
 [![Hackerrank: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-brightgreen?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/shawan_sm)](https://www.hackerrank.com/shawan_sm)
 [![Instagram: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shawan_sm)](https://www.instagram.com/shawan_sm)
 [![Twitter: shawan_sm](https://img.shields.io/twitter/follow/shawan_sm?style=social)](https://twitter.com/shawan_sm)
-## Tech I can work with
+
+
+## My Tech stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
