@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary><b> Most used languages</b></summary>
+  <summary><b> Most Used Languages</b></summary>
     <br/>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&theme=blue-green"/></div>
 </details>
