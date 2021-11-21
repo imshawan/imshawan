@@ -1,7 +1,7 @@
  # Hello Visitor! :wave:
  I'm a small town boy from Assam, India who is always fascinated about Tech & computers, a self learner who enjoys learning new technologies.  
  
- ## About me...
+ # 💁 About me...
 * Currently I'm focused on MERN Stack for full stack web development
 * The project I'm working on: <a href="https://github.com/imshawan/NotesBucket">NotesBucket</a>, a notes taking application (Like Google Keep)
 * I'm open to collaborate on projects :open_hands:
@@ -14,7 +14,7 @@
 [![Twitter: shawan_sm](https://img.shields.io/twitter/follow/shawan_sm?style=social)](https://twitter.com/shawan_sm)
 
 
-# Tech stack
+# 🧑‍💻 Tech stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
