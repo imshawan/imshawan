@@ -1,5 +1,5 @@
  # Hello Visitor! :wave:
- I'm a small town boy from Assam, India who is always fascinated about Tech & computers, a self learner who enjoys learning new technologies.  
+A small town boy from Assam, India who is always fascinated about Tech & computers.  I'm a self learner who enjoys learning new technologies.  
  
  ## 💁 About me...
 * Currently I'm focused on MERN Stack for full stack web development
