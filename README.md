@@ -2,8 +2,7 @@
 A small town boy from Assam, India who is always fascinated about Tech & computers.  I'm a self learner who enjoys learning new technologies.  
  
  ## 💁 About me...
-* Currently I'm focused on MERN Stack for full stack web development
-* The project I'm working on: <a href="https://github.com/imshawan/NotesBucket">NotesBucket</a>, a notes taking application (Like Google Keep)
+* Currently I'm focused on Laravel & Blade (php) for full stack web development
 * I'm open to collaborate on projects :open_hands:
 * <a href="https://imshawan.netlify.app/">View Portfolio</a> or Mail at <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
 * You can Find me on:
