@@ -5,7 +5,7 @@ A small town boy from Assam, India who is always fascinated about Tech & compute
 * Currently I'm focused on React Native & Realm for Mobile App development
 * Interested in Data Science, AI and ML
 * I'm open to collaborate on projects :open_hands:
-* <a href="https://imshawan.netlify.app/">View Portfolio</a> or Mail at <a href="mailto:imshawan.dev@gmail.com">imshawan.dev049@gmail.com</a>
+* <a href="https://www.imshawan.dev/">View Portfolio</a> or reach me at <a href="mailto:hello@imshawan.dev">hello@imshawan.dev</a>
 * You can Find me on:
 
 [![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal)
