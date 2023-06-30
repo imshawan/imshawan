@@ -1,11 +1,11 @@
  # Hello Visitor! :wave:
-A small town boy from Assam, India who is always fascinated about Tech & computers.  I'm a self learner who enjoys learning new technologies.  
+A small-town boy from Assam, India who is always fascinated by Tech & computers.  I'm a self-learnerDevelopment who enjoys learning new technologies.  
  
  ## 💁 About me...
-* Currently I'm focused on React Native & Realm for Mobile App development
-* Interested in Data Science, AI and ML
-* I'm open to collaborate on projects :open_hands:
-* <a href="https://www.imshawan.dev/">View Portfolio</a> or reach me at <a href="mailto:hello@imshawan.dev">hello@imshawan.dev</a>
+* Currently I'm focused on React Native & Realm for Mobile App Development
+* Interested in Data Science, AI, and ML
+* I'm open to collaborating on projects :open_hands:
+* <a href="https://www.imshawan.dev/" target="_blank">View Portfolio</a> or reach me at <a href="mailto:hello@imshawan.dev">hello@imshawan.dev</a>
 * You can Find me on:
 
 [![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal)
