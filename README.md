@@ -1,5 +1,5 @@
  # Hello Visitor! :wave:
-A small-town boy from Assam, India who is always fascinated by Tech & computers.  I'm a self-learnerDevelopment who enjoys learning new technologies.  
+A small-town boy from Assam, India who is always fascinated by Tech & computers.  I'm a self-learner who enjoys learning new technologies.  
  
  ## 💁 About me...
 * Currently I'm focused on React Native & Realm for Mobile App Development
