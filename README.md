@@ -20,7 +20,7 @@ I'm a small town boy from Assam, India. A Tech Enthusiastic & an aspiring techno
 <details>
   <summary><b> My Contributions</b></summary>
     <br/>
-    <div><img src="https://activity-graph.herokuapp.com/graph?username=imshawan&custom_title=imshawan's%20%20contribution%20&theme=react-dark&area=true&hide_border=true" width="100%"/></div>
+    <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=imshawan&theme=synthwave-84" width="100%"/></div>
 </details>
 
 <details>
