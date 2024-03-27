@@ -24,17 +24,12 @@ I'm a small-town boy from Assam, India. A Tech Enthusiastic & an aspiring techno
   </a>
 </p>
 
- 
-<details>
-  <summary><b>Contributions</b></summary>
-    <br/>
-    <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=imshawan&theme=synthwave-84" width="100%"/></div>
-</details>
 
 <details>
-  <summary><b>Most Used Languages</b></summary>
-    <br/>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&theme=blue-green"/></div>
+  <summary><strong>Contributions</strong></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=imshawan&theme=synthwave&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
  
 <p align="center"> 
