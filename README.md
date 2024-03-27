@@ -15,15 +15,24 @@ I'm a small-town boy from Assam, India. A Tech Enthusiastic & an aspiring techno
 [![Instagram: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shawan_sm)](https://www.instagram.com/shawan_sm)
 [![Twitter: shawan_sm](https://img.shields.io/twitter/follow/shawan_sm?style=social)](https://twitter.com/shawan_sm)
 
+
+## Language & Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,jquery,git,nodejs,express,mongodb,react,kafka,aws,nginx,postman,selenium" />
+  </a>
+</p>
+
  
 <details>
-  <summary><b> My Contributions</b></summary>
+  <summary><b>Contributions</b></summary>
     <br/>
     <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=imshawan&theme=synthwave-84" width="100%"/></div>
 </details>
 
 <details>
-  <summary><b> Most Used Languages</b></summary>
+  <summary><b>Most Used Languages</b></summary>
     <br/>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshawan&theme=blue-green"/></div>
 </details>
