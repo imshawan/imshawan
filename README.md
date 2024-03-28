@@ -20,7 +20,7 @@ I'm a small-town boy from Assam, India. A Tech Enthusiastic & an aspiring techno
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,jquery,git,nodejs,express,mongodb,react,kafka,aws,nginx,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,mongodb,react,jquery,git,kafka,aws,nginx,postman,selenium" />
   </a>
 </p>
 
