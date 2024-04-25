@@ -5,7 +5,7 @@ I'm a small-town boy from Assam, India. A Tech Enthusiastic & an aspiring techno
 > In the realm of growing technologies, I think tech-stack is never a bottleneck until you grasp its essence from the very fundamentals.
 
 * In the world of rote memorization, helping people to discover tech.
-* Building systems that scales.
+* Open-source Collaborator.
 * Interested in AI and NLP.
 * I'm open to collaborating on projects :open_hands:
 * <a href="https://www.imshawan.dev/" target="_blank">View Portfolio</a> or reach me at <a href="mailto:hello@imshawan.dev">hello@imshawan.dev</a>
