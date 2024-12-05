@@ -1,5 +1,5 @@
  # Hola! :wave:
-I'm a small-town boy from Assam, India. A Tech Enthusiastic & an aspiring technology leader.
+I'm a passionate Software Engineer from Assam, India—a Tech enthusiast & an aspiring technology leader.
  
  ## 💁 About me...
 > In the realm of growing technologies, I think tech-stack is never a bottleneck until you grasp its essence from the very fundamentals.
