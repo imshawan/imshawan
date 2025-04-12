@@ -8,7 +8,7 @@ I'm a passionate Software Engineer from Assam, India—a Tech enthusiast & an as
 * Open-source Collaborator.
 * Interested in AI and NLP.
 * I'm open to collaborating on projects :open_hands:
-* <a href="https://www.imshawan.dev/" target="_blank">View Portfolio</a> or reach me out at <a href="mailto:hello@imshawan.dev">hello@imshawan.dev</a>
+* <a href="https://www.imshawan.dev/" target="_blank">View Portfolio</a> or reach me out at <a href="mailto:connect@imshawan.dev">connect@imshawan.dev</a>
 * You can Find me on:
 
 [![Linkedin: Shawan Mandal](https://img.shields.io/badge/-Shawan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawan-mandal)](https://www.linkedin.com/in/shawan-mandal)
